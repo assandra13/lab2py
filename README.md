@@ -27,3 +27,5 @@
 ![img.9](foto/9.png)
 ![img.10](foto/10.png)
 
+# Dan semua program sudah selesai di kerjakan, setelah itu lakukan git push
+![img.11](foto/11.png)
